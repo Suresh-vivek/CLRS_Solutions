@@ -1,0 +1,49 @@
+Q-1 Give a real world example that requires sorting or a real world example 
+that requires computing a convex-hull?
+
+A- Sorting is required everywhere from daily lifestyle to heavy office works.
+Sorting means arranging items or even humans in a particular order.
+Like in school students are sorted on the basis of marks and grades.
+In sports players are sorted on the basis of their runs,goals,etc.
+
+Convex Hull algorithm has various examples too :
+
+1.)Shapes of objects can be classified by their "convex deficiency trees", structures that depend for their computation on convex hulls.
+
+2.)Traffic and accidents are great example fro convex hull. If the convex hull of a car avoids collision with obstacles then so does the car.
+
+
+Q-2 Other than speed , what other measures of efficiency might one use
+in  a real-world setting?
+
+A-  a. Computer memory 
+    b. Network usage 
+
+
+Q-3 Select a data structure that you have seen previously, and discuss its strengths and imitations.
+
+A- Arrays list
+
+Advantages:
+
+    a. Access element in constant time.
+    b. Element can be inserted in any place.
+
+Disadvantages:
+
+    a. Random access takes n time.
+    b. Extra memory is utilized in making of index
+
+
+Q-4 How are the shortest-path and traveling-salesman problems given above similar? How are they different?
+
+A- Similar: Both are graph algorithms and find path.
+   Difference: The shortest path algorithm needs 2 points, where as salesman algorithms needs a path between more points that returns to first point.
+
+
+Q-5 Come up with a real-world problem in which only the best solution will do. Then come up with one in which a solution that is “approximately” the best is good enough.
+
+A- Sorting is a algorithm in real world in which only best solution will do.
+   Finding the shortest path between two places as couple of meters wont matter a lot.
+
+
