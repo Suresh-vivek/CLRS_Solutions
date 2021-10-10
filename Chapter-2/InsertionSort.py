@@ -52,3 +52,10 @@ for j in range(1, num):
 
 print("List in Descending order",my_list)
 
+
+# Time Complexity
+  # For the worst case that is list in Reverse order it is
+    # O(n^2)
+  # For the best case that is list is already sorted it is
+    # O(n)
+

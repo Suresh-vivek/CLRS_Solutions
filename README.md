@@ -8,4 +8,4 @@ I will try my best to complete it.
 
 If you want to contribute your solutions you can make a **PR**.
 
-If you like my work please **Star** this repo and **Share** it with your friends
+If you like my work please ⭐ this repo and **Share** it with your friends
